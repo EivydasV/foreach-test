@@ -8,9 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque hic est nisi?</h1>
+
 <table>
-  <!-- <tr>
+  <tr>
     <th>Klase</th>
     <th>Kodas</th>
     <th>Vardas</th>
@@ -29,7 +29,7 @@
         <td><?=$studentInfo['date']; ?></td>
     </tr>
     <?php endforeach;?> 
-    <?php endforeach;?>  -->
+    <?php endforeach;?> 
 
 </table>
 
